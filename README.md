@@ -1,7 +1,4 @@
 # Customer-Segmentation-Retention-Analysis-
-### **Customer Segmentation App 🧑‍🤝‍🧑|👨‍👨‍👦|👨‍👩‍👧‍👦**
-
-![Customer-Segmentation png](https://github.com/tieugem1997/CustomerSegmentation_Streamlit/assets/39017335/32be23de-981f-4865-9676-6712560f3097)
 
 #### **About**
 
