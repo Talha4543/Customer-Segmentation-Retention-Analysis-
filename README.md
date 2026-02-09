@@ -54,4 +54,3 @@ Your insights can shape the future of this app. Contribute through the feedback 
 #### **Thank You!**
 
 Thank you. I hope you liked the project.
-If you really did then don't forget to give a star⭐ to this repo. It would mean a lot.
